@@ -7,9 +7,3 @@ These documents are required by Intuit for app review, even for private/internal
 - [End User License Agreement](./eula.md)
 - [Privacy Policy](./privacy-policy.md)
 
-## GitHub Pages
-
-When GitHub Pages is enabled (Settings → Pages), these documents will be publicly accessible:
-
-- EULA: `https://<your-username>.github.io/qbo-app-legal/eula.html`
-- Privacy Policy: `https://<your-username>.github.io/qbo-app-legal/privacy-policy.html`
